@@ -11,11 +11,11 @@ Project Structure
 Contributing
 License
 ## Features
-**Data Scraping:** Scrapes user data using Rapid API.
-**Data Storage:** Stores scraped data in MongoDB.
-**Data Processing:** Flattens nested data structures for easier processing.
-**Recommendation System:** Generates recommendations based on common followers and followings.
-**Search Functionality:** Allows searching for users based on keywords in their bio.
+**Data Scraping:** Scrapes user data using Rapid API.  
+**Data Storage:** Stores scraped data in MongoDB.  
+**Data Processing:** Flattens nested data structures for easier processing.  
+**Recommendation System:** Generates recommendations based on common followers and followings.  
+**Search Functionality:** Allows searching for users based on keywords in their bio.  
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
 
@@ -70,8 +70,8 @@ Description: Searches for users based on a keyword in their bio.
 keyword: The keyword to search for in user bios.
 ## Project Structure
 
-recommendation-system/
+recommendation-system/  
 │
-├── app.js               # Main application file
-├── package.json         # Project metadata and dependencies
-└── README.md            # Project documentation
+├── app.js               # Main application file  
+├── package.json         # Project metadata and dependencies  
+└── README.md            # Project documentation  
