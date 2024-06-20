@@ -37,7 +37,7 @@ npm install
 Set up your MongoDB connection URI and Rapid API key:  
 
 
-// In your code, replace the URI and API key with your own
+// In your code, replace the URI and API key with your own  
 **const uri** = 'mongodb://localhost:27017/';  
 **const rapidApiKey** = 'YOUR_RAPID_API_KEY';  
 ## Usage
@@ -51,22 +51,22 @@ The server will run on port 3000 by default. You can access the various API endp
 
 ## API Endpoints
 ### Flatten Documents
-Endpoint: /flatten
-Method: GET
-Description: Flattens nested user data and stores it in a new collection.
+Endpoint: /flatten  
+Method: GET  
+Description: Flattens nested user data and stores it in a new collection.  
 ### Common Followers
-Endpoint: /common-followers
-Method: GET
-Description: Retrieves users with common followers.
+Endpoint: /common-followers  
+Method: GET  
+Description: Retrieves users with common followers.  
 ### Recommendations
-Endpoint: /recommendations
-Method: GET
-Description: Provides user recommendations based on common followers and followings.
+Endpoint: /recommendations  
+Method: GET  
+Description: Provides user recommendations based on common followers and followings.  
 ### Search Users
-Endpoint: /users/:keyword
-Method: GET
-Description: Searches for users based on a keyword in their bio.
-Parameters:
+Endpoint: /users/:keyword  
+Method: GET  
+Description: Searches for users based on a keyword in their bio.  
+**Parameters:**
 keyword: The keyword to search for in user bios.
 ## Project Structure
 
