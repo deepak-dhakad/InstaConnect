@@ -19,7 +19,7 @@ License
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
 
-Node.js and npm installed on your machine.
+Node.js and npm installed on your machine./n
 MongoDB installed and running locally or on a server.
 Rapid API Key for accessing the required API endpoints.
 ## Installation
@@ -34,12 +34,12 @@ Install the dependencies:
 
 
 npm install
-Set up your MongoDB connection URI and Rapid API key:
+Set up your MongoDB connection URI and Rapid API key:  
 
 
 // In your code, replace the URI and API key with your own
-**const uri** = 'mongodb://localhost:27017/';
-**const rapidApiKey** = 'YOUR_RAPID_API_KEY';
+**const uri** = 'mongodb://localhost:27017/';  
+**const rapidApiKey** = 'YOUR_RAPID_API_KEY';  
 ## Usage
 To use the project, follow these steps:
 
