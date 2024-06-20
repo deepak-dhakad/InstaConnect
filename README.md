@@ -19,8 +19,8 @@ License
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
 
-Node.js and npm installed on your machine./n
-MongoDB installed and running locally or on a server.
+Node.js and npm installed on your machine.  
+MongoDB installed and running locally or on a server.  
 Rapid API Key for accessing the required API endpoints.
 ## Installation
 To install the project, follow these steps:
