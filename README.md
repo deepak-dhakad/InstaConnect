@@ -11,11 +11,11 @@ Project Structure
 Contributing
 License
 ## Features
-Data Scraping: Scrapes user data using Rapid API.
-Data Storage: Stores scraped data in MongoDB.
-Data Processing: Flattens nested data structures for easier processing.
-Recommendation System: Generates recommendations based on common followers and followings.
-Search Functionality: Allows searching for users based on keywords in their bio.
+**Data Scraping:** Scrapes user data using Rapid API.
+**Data Storage:** Stores scraped data in MongoDB.
+**Data Processing:** Flattens nested data structures for easier processing.
+**Recommendation System:** Generates recommendations based on common followers and followings.
+**Search Functionality:** Allows searching for users based on keywords in their bio.
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
 
@@ -38,8 +38,8 @@ Set up your MongoDB connection URI and Rapid API key:
 
 
 // In your code, replace the URI and API key with your own
-const uri = 'mongodb://localhost:27017/';
-const rapidApiKey = 'YOUR_RAPID_API_KEY';
+**const uri** = 'mongodb://localhost:27017/';
+**const rapidApiKey** = 'YOUR_RAPID_API_KEY';
 ## Usage
 To use the project, follow these steps:
 
